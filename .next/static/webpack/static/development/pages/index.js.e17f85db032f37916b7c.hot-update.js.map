@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static\\development\\pages\\index.js.e17f85db032f37916b7c.hot-update.js","sources":["webpack:///./pages/index.js"],"sourcesContent":["import Link from \"next/link\";\r\nexport default Home;\r\n"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AACA;;;;;;;;;;;;;;;;;;;;;;;A","sourceRoot":""}
